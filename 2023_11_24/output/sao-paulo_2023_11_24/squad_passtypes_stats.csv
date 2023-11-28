@@ -1,0 +1,41 @@
+Player,Nation,Pos,Age,90s,Att,Pass Types_Live,Pass Types_Dead,Pass Types_FK,Pass Types_TB,Pass Types_Sw,Pass Types_Crs,Pass Types_TI,Pass Types_CK,Corner Kicks_In,Corner Kicks_Out,Corner Kicks_Str,Outcomes_Cmp,Outcomes_Off,Outcomes_Blocks,Matches
+Rafael Pires,br BRA,GK,34-154,29.0,899,639,258,58,0,4,0,0,0,0,0,0,698,2,0,Matches
+Pablo Maia,br BRA,MF,21-318,24.7,1502,1459,38,36,2,29,4,1,0,0,0,0,1349,5,20,Matches
+Alisson,br BRA,"MF,FW",30-152,20.2,1073,997,73,28,2,10,57,7,37,15,9,0,892,3,22,Matches
+Lucas Beraldo,br BRA,DF,20-000,21.0,1519,1455,64,60,1,9,2,4,0,0,0,0,1351,0,7,Matches
+Rafinha,br BRA,DF,38-078,20.8,1667,1418,241,63,1,29,41,174,4,0,3,1,1468,8,13,Matches
+Luciano,br BRA,"MF,FW",30-190,20.7,778,738,37,6,7,22,20,12,1,1,0,0,636,3,32,Matches
+Caio Paulista,br BRA,DF,25-197,20.4,1225,1015,201,26,1,2,48,175,0,0,0,0,1058,9,29,Matches
+Diego,br BRA,DF,24-126,19.3,1305,1278,26,23,0,20,1,0,0,0,0,0,1173,1,10,Matches
+Wellington Rato,br BRA,"FW,MF",31-149,16.8,846,720,121,30,5,35,139,15,76,36,32,0,607,5,12,Matches
+Michel Araujo,uy URU,"FW,MF",27-057,17.8,900,839,58,14,4,5,58,15,28,10,15,0,731,3,21,Matches
+Rodrigo Nestor,br BRA,"MF,FW",23-107,16.1,667,622,38,17,2,7,34,14,4,0,2,0,544,7,20,Matches
+Robert Arboleda,ec ECU,DF,32-033,15.1,959,935,22,22,0,4,0,0,0,0,0,0,852,2,3,Matches
+Jonathan Calleri,ar ARG,FW,30-062,15.0,267,238,27,0,1,3,11,1,0,0,0,0,176,2,11,Matches
+Gabriel Neves,uy URU,MF,26-105,10.7,843,790,47,29,2,14,18,7,11,4,5,0,731,6,16,Matches
+Juan Santos,br BRA,FW,21-263,12.3,302,292,10,2,1,1,17,4,1,0,0,0,229,0,11,Matches
+Alan Franco,ar ARG,DF,27-044,11.5,842,819,22,19,0,1,0,3,0,0,0,0,771,1,6,Matches
+Nathan Mendes,br BRA,DF,21-097,10.7,674,577,97,9,0,4,19,88,0,0,0,0,557,0,18,Matches
+Welington,br BRA,DF,22-278,8.6,471,384,85,10,1,2,35,75,0,0,0,0,384,2,14,Matches
+Luan,br BRA,MF,24-194,6.8,329,324,4,3,0,1,0,1,0,0,0,0,286,1,7,Matches
+James Rodríguez,co COL,"MF,FW",32-135,6.3,421,362,57,20,0,6,37,8,18,9,8,0,340,2,8,Matches
+Lucas Moura,br BRA,"FW,MF",31-103,7.7,267,249,15,10,3,2,8,0,4,3,0,0,189,3,10,Matches
+David,br BRA,"FW,MF",28-038,7.5,188,178,9,1,1,0,6,7,1,0,0,0,135,1,6,Matches
+Marcos Paulo,br BRA,"FW,MF",22-296,5.9,204,186,15,5,3,2,10,4,5,3,2,0,153,3,8,Matches
+Jandrei,br BRA,GK,30-268,5.0,239,180,58,8,0,1,0,0,0,0,0,0,178,1,0,Matches
+Jhegson Méndez,ec ECU,MF,26-212,4.1,214,204,9,8,0,0,1,1,0,0,0,0,188,1,3,Matches
+Patryck,br BRA,DF,20-310,4.0,176,139,37,1,0,0,8,36,0,0,0,0,125,0,10,Matches
+Raí Ramos,br BRA,DF,29-202,3.1,146,116,30,1,0,0,7,29,0,0,0,0,120,0,3,Matches
+Erison,br BRA,FW,24-225,3.0,26,23,3,0,1,0,1,0,0,0,0,0,16,0,0,Matches
+Matheus Belém,br BRA,DF,20-284,1.9,89,87,2,2,0,0,1,0,0,0,0,0,73,0,1,Matches
+Rodrigo,br BRA,"MF,FW",19-253,2.6,151,145,6,0,0,1,15,4,2,2,0,0,109,0,4,Matches
+Alexandre Pato,br BRA,"FW,MF",34-083,1.8,54,51,3,0,1,1,2,0,1,1,0,0,38,0,2,Matches
+Talles Costa,br BRA,"MF,FW",21-114,0.8,61,58,3,2,0,0,1,1,0,0,0,0,54,0,1,Matches
+João Moreira,pt POR,DF,19-187,0.8,50,44,6,4,0,0,2,2,0,0,0,0,46,0,0,Matches
+William Gomes,br BRA,FW,17-254,0.3,5,2,3,0,0,0,2,1,2,1,0,0,3,0,0,Matches
+Pedro Vilhena,br BRA,FW,21-279,0.2,17,16,1,0,0,0,1,1,0,0,0,0,13,0,0,Matches
+Felipe Negrucci,br BRA,MF,19-204,0.2,7,7,0,0,0,0,0,0,0,0,0,0,7,0,0,Matches
+Nahuel Ferraresi,ve VEN,FW,25-005,0.0,2,2,0,0,0,0,0,0,0,0,0,0,2,0,0,Matches
+Talles Wander,br BRA,MF,20-031,0.0,4,4,0,0,0,0,0,0,0,0,0,0,3,0,0,Matches
+Squad Total,,,27.5,34.0,19389,17592,1726,517,39,215,606,690,195,85,76,1,16285,71,328,
+Opponent Total,,,28.5,34.0,12912,11239,1621,525,19,101,553,609,151,58,49,1,9920,52,279,

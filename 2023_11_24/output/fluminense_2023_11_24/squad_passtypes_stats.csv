@@ -1,0 +1,39 @@
+Player,Nation,Pos,Age,90s,Att,Pass Types_Live,Pass Types_Dead,Pass Types_FK,Pass Types_TB,Pass Types_Sw,Pass Types_Crs,Pass Types_TI,Pass Types_CK,Corner Kicks_In,Corner Kicks_Out,Corner Kicks_Str,Outcomes_Cmp,Outcomes_Off,Outcomes_Blocks,Matches
+Fábio,br BRA,GK,43-055,31.0,897,619,276,31,0,3,0,1,0,0,0,0,799,2,2,Matches
+André,br BRA,"MF,DF",22-131,25.9,2109,2039,67,62,2,21,5,5,0,0,0,0,1991,3,14,Matches
+Germán Cano,ar ARG,FW,35-295,24.5,421,371,48,1,0,6,16,1,0,0,0,0,315,2,16,Matches
+Samuel Xavier,br BRA,DF,33-171,23.4,1387,1144,236,38,6,5,32,197,1,0,0,0,1182,7,32,Matches
+Lima,br BRA,"MF,FW",27-166,25.9,1420,1337,82,31,1,1,57,26,25,8,8,0,1214,1,37,Matches
+Jhon Arias,co COL,"FW,MF",26-064,23.5,1363,1236,118,28,1,2,149,28,62,25,16,0,1062,9,50,Matches
+Nino,br BRA,DF,26-228,21.4,1543,1501,42,39,1,9,6,3,0,0,0,0,1400,0,10,Matches
+Ganso,br BRA,MF,34-043,17.5,1248,1125,113,61,4,3,44,18,34,22,1,1,1062,10,17,Matches
+Matheus Martinelli,br BRA,"MF,DF",22-198,18.6,1288,1219,67,48,0,4,5,19,0,0,0,0,1200,2,10,Matches
+Keno,br BRA,"FW,MF",34-075,15.7,550,514,28,0,2,4,83,21,7,4,0,0,358,8,30,Matches
+Marcelo,br BRA,DF,35-196,13.1,994,828,164,46,2,14,76,89,29,10,11,0,782,2,20,Matches
+Felipe Melo,br BRA,DF,40-151,10.2,789,762,25,20,0,18,1,0,0,0,0,0,704,2,3,Matches
+Guga,br BRA,DF,25-087,13.9,816,700,113,14,0,1,33,98,1,0,1,0,693,3,21,Matches
+Marlon,br BRA,DF,28-078,10.4,802,781,20,20,0,6,3,0,0,0,0,0,740,1,5,Matches
+Alexsander,br BRA,"MF,DF",20-047,12.3,664,629,33,11,0,2,17,21,0,0,0,0,550,2,21,Matches
+John Kennedy,br BRA,FW,21-190,12.6,243,234,8,0,0,0,4,0,0,0,0,0,179,1,15,Matches
+David Braz,br BRA,DF,36-187,9.1,605,563,40,29,0,6,1,7,0,0,0,0,514,2,2,Matches
+Lelê,br BRA,"FW,MF",26-054,12.2,197,174,21,0,0,0,6,1,0,0,0,0,134,2,8,Matches
+Diogo Barbosa,br BRA,DF,31-099,10.1,575,475,97,5,2,1,20,90,2,1,0,0,493,3,16,Matches
+Leonardo Fernández,uy URU,"MF,FW",25-016,6.8,405,344,58,22,0,11,67,9,26,8,12,3,283,3,13,Matches
+Thiago dos Santos,br BRA,"DF,MF",34-080,6.7,417,387,29,26,0,6,3,1,0,0,0,0,344,1,6,Matches
+Danielzinho,br BRA,MF,27-317,5.3,381,364,16,8,2,1,9,2,6,0,2,0,325,1,9,Matches
+Gabriel Pirani,br BRA,"MF,FW",21-226,4.4,165,157,6,0,0,0,4,5,0,0,0,0,139,2,7,Matches
+Yony González,co COL,"FW,MF",29-136,5.4,113,108,4,0,0,0,6,4,0,0,0,0,78,1,6,Matches
+Manoel,br BRA,DF,33-271,3.2,210,201,9,7,0,0,0,1,0,0,0,0,194,0,1,Matches
+Pedro Rangel,br BRA,GK,23-148,2.0,55,39,16,1,0,0,0,0,0,0,0,0,49,0,1,Matches
+Felipe Vieira,,DF,,2.3,106,94,12,1,0,0,2,11,0,0,0,0,88,0,3,Matches
+Vitor Mendes,br BRA,DF,24-284,1.2,60,53,7,7,0,0,0,0,0,0,0,0,54,0,0,Matches
+Vitor Eudes,br BRA,GK,25-034,1.0,24,21,3,0,0,0,0,0,0,0,0,0,21,0,0,Matches
+Giovanni,br BRA,"MF,DF",21-297,1.0,79,73,5,1,0,0,2,4,0,0,0,0,68,1,0,Matches
+Alan Carvalho,cn CHN,MF,34-137,0.5,13,13,0,0,0,0,0,0,0,0,0,0,8,0,1,Matches
+Isaac,br BRA,"MF,FW",19-214,0.7,35,32,3,0,0,0,1,3,0,0,0,0,26,0,1,Matches
+João Neto,br BRA,"MF,DF",20-137,0.6,21,21,0,0,0,0,3,0,0,0,0,0,20,0,1,Matches
+Arthur,br BRA,"DF,FW",19-273,0.2,19,18,1,1,0,0,1,0,0,0,0,0,16,0,1,Matches
+Alexandre Jesus,br BRA,DF,22-069,0.1,8,7,1,0,0,0,0,1,0,0,0,0,7,0,0,Matches
+Rafael Monteiro,br BRA,MF,19-283,0.0,5,4,1,0,0,0,1,1,0,0,0,0,4,0,0,Matches
+Squad Total,,,30.0,34.0,20027,18187,1769,558,23,124,657,667,193,78,51,4,17096,71,379,
+Opponent Total,,,28.5,34.0,12786,11135,1598,504,42,102,615,557,183,62,67,0,9893,53,260,

@@ -1,0 +1,35 @@
+Player,Nation,Pos,Age,90s,Performance_CrdY,Performance_CrdR,Performance_2CrdY,Performance_Fls,Performance_Fld,Performance_Off,Performance_Crs,Performance_Int,Performance_TklW,Performance_PKwon,Performance_PKcon,Performance_OG,Performance_Recov,Aerial Duels_Won,Aerial Duels_Lost,Aerial Duels_Won%,Matches
+Fabrício Bruno,br BRA,DF,27-285,30.0,7,0,0,12,15,0,11,19,23,0,0,0,151,38,28,57.6,Matches
+Léo Pereira,br BRA,DF,27-297,26.4,4,0,0,20,22,1,9,27,27,0,1,0,152,55,19,74.3,Matches
+Wesley,br BRA,DF,20-079,27.1,3,0,0,45,43,9,60,39,46,2,1,0,155,38,36,51.4,Matches
+Gerson,br BRA,MF,26-188,26.3,3,1,0,44,70,4,29,12,18,1,1,0,139,21,34,38.2,Matches
+Ayrton Lucas,br BRA,DF,26-158,26.0,7,0,0,38,46,0,64,10,40,1,0,0,157,27,24,52.9,Matches
+Thiago Maia,br BRA,MF,26-246,22.5,7,0,0,36,7,0,9,28,31,0,1,0,149,25,22,53.2,Matches
+Pedro,br BRA,FW,26-157,19.9,1,0,0,16,17,2,3,7,11,1,0,0,47,20,34,37.0,Matches
+Erick Pulgar,cl CHI,MF,29-313,19.2,8,0,0,42,12,3,18,18,24,0,0,0,114,24,20,54.5,Matches
+Matheus Cunha,br BRA,GK,22-184,17.6,1,0,0,0,4,0,0,0,0,0,0,0,16,2,0,100.0,Matches
+Giorgian De Arrascaeta,uy URU,"MF,FW",29-176,16.8,3,0,0,20,36,4,95,6,21,1,0,0,78,12,16,42.9,Matches
+Gabriel Barbosa,br BRA,FW,27-086,16.8,7,2,0,12,15,7,22,2,1,0,0,0,31,3,10,23.1,Matches
+Everton Soares,br BRA,"FW,MF",27-247,16.0,0,0,0,18,22,7,60,11,18,1,0,0,61,11,28,28.2,Matches
+Everton Ribeiro,br BRA,"FW,MF",34-228,15.6,3,0,0,17,38,1,53,10,10,0,1,0,86,3,9,25.0,Matches
+Bruno Henrique,br BRA,"FW,MF",32-329,14.9,6,1,0,26,42,9,21,3,19,1,0,0,49,31,31,50.0,Matches
+Victor Hugo,br BRA,"MF,FW",19-197,13.6,1,0,0,11,23,1,10,13,19,0,0,0,61,16,17,48.5,Matches
+David Luiz,br BRA,DF,36-216,11.0,1,0,0,15,3,0,5,10,9,0,0,0,60,21,9,70.0,Matches
+Agustín Rossi,ar ARG,GK,28-095,11.0,1,0,0,0,1,0,0,0,0,0,0,0,15,3,1,75.0,Matches
+Luiz Araújo,br BRA,"FW,MF",27-175,7.0,1,1,0,16,21,1,28,5,12,1,0,0,30,8,4,66.7,Matches
+Matheuzinho,br BRA,DF,23-077,5.5,1,0,0,4,4,0,15,6,9,0,0,0,18,7,5,58.3,Matches
+Santos,br BRA,GK,33-252,5.4,0,0,0,0,1,0,0,0,0,0,0,0,8,0,0,,Matches
+Filipe Luís,br BRA,DF,38-107,4.7,3,0,0,5,8,1,5,8,9,0,1,0,24,4,5,44.4,Matches
+Matheus França,br BRA,"MF,FW",19-237,4.1,0,0,0,9,4,0,8,5,6,0,0,0,18,6,3,66.7,Matches
+Allan,br BRA,MF,26-266,5.1,0,0,0,8,8,0,3,8,5,0,0,0,34,2,3,40.0,Matches
+Pablo,br BRA,DF,32-156,3.9,0,0,0,6,1,0,0,5,3,0,0,0,20,19,6,76.0,Matches
+Arturo Vidal,cl CHI,"MF,DF",36-186,2.8,2,0,0,4,5,0,3,2,5,0,0,0,13,6,6,50.0,Matches
+Guillermo Varela,uy URU,DF,30-245,0.8,0,0,0,5,0,0,2,0,0,0,0,0,5,0,1,0.0,Matches
+Marinho,br BRA,"FW,DF",33-179,0.9,1,0,0,2,0,1,4,0,2,0,0,0,7,0,0,,Matches
+Igor,br BRA,MF,20-262,0.9,1,0,0,5,4,0,0,3,1,0,0,0,8,2,1,66.7,Matches
+Rodrigo Caio,br BRA,"MF,DF",30-099,0.7,0,0,0,1,2,0,0,0,1,0,0,0,4,1,2,33.3,Matches
+Pedrinho,br BRA,FW,20-220,0.2,0,0,0,0,0,0,2,1,0,0,0,0,0,2,1,66.7,Matches
+Matheus Gonçalves,br BRA,"FW,MF",18-098,0.2,0,0,0,1,2,0,1,0,0,0,0,0,1,0,0,,Matches
+André Inácio,br BRA,FW,21-274,0.2,1,0,0,1,0,0,0,0,2,0,0,0,0,1,1,50.0,Matches
+Squad Total,,,27.4,34.0,73,5,0,439,476,51,540,258,372,9,6,0,1711,408,376,52.0,
+Opponent Total,,,28.3,34.0,96,8,4,488,420,70,631,318,395,5,9,1,1729,376,407,48.0,

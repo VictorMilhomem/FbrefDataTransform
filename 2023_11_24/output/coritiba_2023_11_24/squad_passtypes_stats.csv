@@ -1,0 +1,47 @@
+Player,Nation,Pos,Age,90s,Att,Pass Types_Live,Pass Types_Dead,Pass Types_FK,Pass Types_TB,Pass Types_Sw,Pass Types_Crs,Pass Types_TI,Pass Types_CK,Corner Kicks_In,Corner Kicks_Out,Corner Kicks_Str,Outcomes_Cmp,Outcomes_Off,Outcomes_Blocks,Matches
+Gabriel,br BRA,GK,31-058,30.7,1002,649,349,93,0,2,0,0,0,0,0,0,663,4,0,Matches
+Robson,br BRA,"MF,FW",32-178,24.7,687,650,31,8,9,3,51,12,5,2,1,0,436,6,21,Matches
+Natanael,br BRA,DF,21-323,23.8,1058,789,269,13,0,0,69,251,5,2,3,0,810,0,34,Matches
+Marcelino Moreno,ar ARG,MF,29-152,23.6,893,723,159,58,11,6,149,26,72,42,22,0,648,11,20,Matches
+Bruno Gomes,br BRA,MF,22-234,22.7,837,761,67,39,3,2,30,5,19,8,7,0,625,9,17,Matches
+Henrique,br BRA,DF,37-041,22.5,726,685,39,35,1,1,0,1,0,0,0,0,643,2,0,Matches
+Jamerson,br BRA,"DF,FW",25-076,19.5,844,651,193,12,0,3,57,175,6,5,1,0,636,0,24,Matches
+Benjamín Kuscevic,cl CHI,DF,27-206,19.5,860,808,49,45,0,12,2,4,0,0,0,0,706,3,5,Matches
+Victor Luis,br BRA,DF,30-154,16.4,822,637,183,40,0,7,63,129,14,11,3,0,617,2,15,Matches
+Matheus Bianqui,br BRA,MF,25-297,13.2,368,353,14,7,2,4,8,6,0,0,0,0,258,1,13,Matches
+Sebastián Gómez,co COL,MF,27-174,13.1,445,424,17,10,0,1,10,6,1,1,0,0,370,4,6,Matches
+Islam Slimani,dz ALG,FW,35-159,9.1,216,188,26,0,0,1,2,0,0,0,0,0,157,2,6,Matches
+Bruno Viana,br BRA,DF,28-292,9.0,427,401,26,24,1,9,2,0,0,0,0,0,356,0,3,Matches
+Alef Manga,br BRA,"FW,MF",28-360,8.9,248,228,18,0,0,2,11,3,2,0,1,0,190,2,7,Matches
+Willian Farias,br BRA,MF,34-171,8.8,373,362,11,10,1,2,1,1,0,0,0,0,313,0,8,Matches
+Andrey Ramos do Nascimento,br BRA,MF,25-282,10.1,564,532,31,20,2,6,17,3,8,4,2,0,485,1,9,Matches
+Liziero,br BRA,MF,25-290,6.5,309,298,10,6,0,4,5,4,0,0,0,0,246,1,5,Matches
+Diogo,br BRA,"FW,MF",26-355,7.1,155,134,20,0,0,0,7,2,0,0,0,0,107,1,3,Matches
+Thalisson Gabriel,br BRA,DF,21-308,7.0,312,304,8,7,0,3,1,1,0,0,0,0,250,0,4,Matches
+Zé Roberto,br BRA,"FW,MF",30-071,5.8,134,120,13,1,0,1,2,0,0,0,0,0,86,1,3,Matches
+Kaio,br BRA,"MF,FW",19-282,7.2,192,181,8,3,3,2,14,3,2,2,0,0,135,3,5,Matches
+Jean Pedroso,br BRA,DF,19-300,6.5,284,268,16,15,0,1,0,1,0,0,0,0,234,0,3,Matches
+Thiago Dombroski,br BRA,DF,21-157,5.1,225,220,5,5,0,9,0,0,0,0,0,0,166,0,1,Matches
+Rodrigo Pinho,br BRA,FW,32-178,4.3,71,61,10,0,1,0,1,0,0,0,0,0,46,0,5,Matches
+Fransérgio,br BRA,MF,33-037,5.9,298,284,14,14,1,3,3,0,0,0,0,0,234,0,10,Matches
+Diogo Batista,br BRA,"DF,MF",20-087,4.7,231,188,42,7,0,2,13,34,1,0,1,0,170,1,5,Matches
+Andreas Samaris,gr GRE,MF,34-164,2.0,92,83,9,9,0,1,0,0,0,0,0,0,83,0,1,Matches
+Maurício Garcez,br BRA,"MF,FW",26-253,5.4,116,109,6,1,0,0,8,2,0,0,0,0,81,1,8,Matches
+Gabriel Boschilia,br BRA,"MF,FW",27-264,3.8,182,162,19,5,2,3,15,4,9,4,3,0,145,1,2,Matches
+Jhon Chancellor,ve VEN,DF,31-326,3.4,101,99,2,2,0,0,0,0,0,0,0,0,80,0,0,Matches
+Hayner,br BRA,DF,28-053,3.3,138,110,28,1,0,2,12,26,1,0,1,0,94,0,3,Matches
+Luan Polli,br BRA,GK,30-232,3.3,74,43,31,8,0,0,0,0,0,0,0,0,48,0,0,Matches
+Júnior Urso,br BRA,MF,34-259,3.3,122,117,5,5,0,1,1,0,0,0,0,0,109,0,2,Matches
+Reynaldo Cesar Moraes,br BRA,DF,26-325,2.1,61,60,1,1,0,1,0,0,0,0,0,0,44,0,0,Matches
+Edu,br BRA,"FW,MF",30-264,2.0,47,43,4,0,0,0,3,1,0,0,0,0,29,0,2,Matches
+Marcos Vinicius,br BRA,"DF,MF",26-243,1.9,89,67,22,3,1,0,7,18,1,0,1,0,51,0,9,Matches
+William Pottker,br BRA,"FW,MF",29-337,1.3,40,38,2,0,0,0,2,1,0,0,0,0,28,0,2,Matches
+Maurício Antônio,br BRA,DF,31-291,1.0,49,48,1,1,0,0,0,0,0,0,0,0,35,0,1,Matches
+Gustavo Vilar,br BRA,DF,23-220,1.0,59,58,1,1,0,0,0,0,0,0,0,0,50,0,0,Matches
+Lucas Barbosa,br BRA,"MF,FW",22-275,1.1,46,43,3,2,0,0,1,1,0,0,0,0,34,0,2,Matches
+Jesé,es ESP,MF,30-271,0.9,32,32,0,0,0,0,3,0,0,0,0,0,25,0,0,Matches
+Wesley Pombo,br BRA,MF,21-175,0.6,12,10,0,0,0,0,1,0,0,0,0,0,9,2,0,Matches
+Ruan Lucas,br BRA,"MF,FW",19-218,0.3,13,13,0,0,0,0,1,0,0,0,0,0,12,0,0,Matches
+Gabriel Silva,br BRA,MF,21-144,0.1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,Matches
+Squad Total,,,28.3,34.0,13855,12035,1762,511,38,94,572,720,146,81,46,0,10545,58,264,
+Opponent Total,,,28.4,34.0,17478,15529,1904,551,30,148,752,834,210,91,57,11,14016,45,343,

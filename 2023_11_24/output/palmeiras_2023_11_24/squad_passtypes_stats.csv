@@ -1,0 +1,34 @@
+Player,Nation,Pos,Age,90s,Att,Pass Types_Live,Pass Types_Dead,Pass Types_FK,Pass Types_TB,Pass Types_Sw,Pass Types_Crs,Pass Types_TI,Pass Types_CK,Corner Kicks_In,Corner Kicks_Out,Corner Kicks_Str,Outcomes_Cmp,Outcomes_Off,Outcomes_Blocks,Matches
+Wéverton,br BRA,GK,35-346,31.0,1054,765,283,76,0,6,0,0,0,0,0,0,836,6,0,Matches
+Gustavo Gómez,py PAR,DF,30-202,28.0,1574,1510,58,53,0,9,11,4,0,0,0,0,1307,6,8,Matches
+Zé Rafael,br BRA,MF,30-161,24.8,1090,1042,45,40,0,17,9,4,0,0,0,0,950,3,20,Matches
+Joaquín Piquerez,uy URU,DF,25-092,25.4,1431,1178,245,43,0,14,112,198,2,0,1,0,1141,8,41,Matches
+Raphael Veiga,br BRA,MF,28-158,23.3,1059,829,223,58,8,12,188,7,130,53,54,0,786,7,22,Matches
+Mayke,br BRA,"DF,FW",31-014,25.0,1542,1325,207,34,3,5,111,173,0,0,0,0,1271,10,35,Matches
+Artur,br BRA,FW,25-282,19.5,775,722,48,11,3,3,74,13,24,14,1,0,571,5,26,Matches
+Luan Garcia,br BRA,DF,30-198,20.2,1036,999,32,27,1,10,6,4,0,0,0,0,880,5,4,Matches
+Gabriel Menino,br BRA,MF,23-056,17.7,1153,1047,100,55,2,24,55,18,24,10,6,0,940,6,16,Matches
+Murilo Cerqueira,br BRA,DF,26-242,20.1,1087,1046,38,34,3,11,1,0,0,0,0,0,973,3,8,Matches
+Rony,br BRA,FW,28-197,17.7,246,231,13,0,0,1,21,6,0,0,0,0,174,2,12,Matches
+Richard Ríos,co COL,MF,23-175,17.2,651,627,20,17,2,0,23,3,0,0,0,0,514,4,24,Matches
+Endrick,br BRA,FW,17-126,14.0,299,262,32,3,2,1,16,9,1,1,0,0,212,5,11,Matches
+Dudu,br BRA,FW,31-321,12.0,434,400,32,10,1,13,39,14,8,1,1,1,313,2,17,Matches
+Marcos Rocha,br BRA,DF,34-348,10.4,834,672,157,50,3,10,20,102,0,0,0,0,674,5,12,Matches
+Breno,br BRA,FW,27-304,12.2,303,297,1,0,0,1,21,1,0,0,0,0,227,5,10,Matches
+Jhonatan Jowjow,br BRA,"MF,FW",21-076,9.5,290,271,18,4,3,4,26,1,13,11,0,0,216,1,11,Matches
+Vanderlan,br BRA,DF,21-078,8.4,313,251,61,7,0,1,26,54,0,0,0,0,226,1,13,Matches
+José López,ar ARG,"FW,MF",22-353,6.0,138,133,3,0,0,1,7,0,0,0,0,0,83,2,5,Matches
+Luis Guilherme,br BRA,"FW,MF",17-288,6.4,246,220,23,4,0,4,32,6,12,7,4,0,182,3,4,Matches
+Kaiky Naves,br BRA,DF,21-200,4.8,218,194,22,16,0,2,0,1,0,0,0,0,189,2,1,Matches
+Fabinho,br BRA,MF,21-229,6.0,292,287,4,3,1,11,2,1,0,0,0,0,242,1,7,Matches
+García,br BRA,DF,21-324,3.3,183,142,40,5,1,0,13,35,0,0,0,0,134,1,2,Matches
+Marcelo Lomba,br BRA,GK,36-341,3.0,102,68,33,10,0,0,0,0,0,0,0,0,74,1,0,Matches
+Kevin,br BRA,"FW,DF",20-324,2.6,80,78,1,1,0,2,9,0,0,0,0,0,54,1,2,Matches
+Jailson Siqueira,br BRA,"MF,DF",28-078,1.7,55,52,2,1,0,1,0,1,0,0,0,0,42,1,4,Matches
+Rafael Navarro,br BRA,FW,23-224,1.4,35,32,3,0,0,0,0,0,0,0,0,0,27,0,3,Matches
+Bruno Tabata,br BRA,"MF,FW",26-239,1.4,72,67,5,0,1,2,10,5,0,0,0,0,51,0,5,Matches
+Ian Custódio,br BRA,DF,20-223,0.2,7,6,1,0,0,0,0,1,0,0,0,0,3,0,0,Matches
+Giovani,br BRA,FW,19-327,0.2,9,9,0,0,1,0,1,0,0,0,0,0,4,0,0,Matches
+Kauan Santos,br BRA,FW,19-160,0.0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Squad Total,,,27.7,34.0,16609,14763,1750,562,35,165,833,661,214,97,67,1,13296,96,323,
+Opponent Total,,,28.2,34.0,14676,12857,1776,598,34,84,527,638,125,32,61,1,11625,43,288,

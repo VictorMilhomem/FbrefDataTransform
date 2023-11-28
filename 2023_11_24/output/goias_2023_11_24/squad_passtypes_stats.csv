@@ -1,0 +1,40 @@
+Player,Nation,Pos,Age,90s,Att,Pass Types_Live,Pass Types_Dead,Pass Types_FK,Pass Types_TB,Pass Types_Sw,Pass Types_Crs,Pass Types_TI,Pass Types_CK,Corner Kicks_In,Corner Kicks_Out,Corner Kicks_Str,Outcomes_Cmp,Outcomes_Off,Outcomes_Blocks,Matches
+Tadeu,br BRA,GK,31-293,31.0,1048,650,388,124,0,6,0,0,0,0,0,0,728,10,1,Matches
+Maguinho,br BRA,DF,30-322,27.8,1052,824,226,8,2,6,49,218,0,0,0,0,740,2,29,Matches
+Bruno Melo,br BRA,DF,31-029,29.8,1324,1238,79,66,0,18,3,5,0,0,0,0,1138,7,11,Matches
+Everton Morelli,br BRA,MF,26-020,26.3,885,839,43,27,2,5,14,14,0,0,0,0,712,3,22,Matches
+Lucas Halter,br BRA,DF,23-206,25.2,1063,1003,53,44,1,10,4,2,0,0,0,0,873,7,9,Matches
+Willian,br BRA,MF,30-192,20.7,852,824,27,24,2,5,2,3,0,0,0,0,719,1,9,Matches
+Guilherme,br BRA,MF,32-187,17.7,792,626,165,64,2,9,138,12,85,53,22,8,588,1,13,Matches
+Sander,br BRA,DF,33-052,17.1,1004,757,239,33,1,2,111,174,32,3,27,0,755,8,22,Matches
+Julián Palacios,ar ARG,"FW,MF",24-293,16.7,548,454,87,28,9,1,80,23,31,8,22,0,386,7,19,Matches
+Hugo,br BRA,DF,26-087,15.8,737,567,165,19,2,7,46,141,5,1,4,0,517,5,19,Matches
+Anderson,br BRA,FW,25-131,12.4,390,384,3,1,4,2,14,2,0,0,0,0,288,3,20,Matches
+Allano,br BRA,FW,28-214,13.7,421,408,10,2,6,2,13,6,2,0,0,0,307,3,19,Matches
+Zé Ricardo,br BRA,MF,24-294,11.9,669,620,41,36,3,12,4,5,0,0,0,0,555,8,10,Matches
+João Magno,br BRA,FW,26-282,10.9,156,134,21,0,1,0,3,0,0,0,0,0,99,1,7,Matches
+Sidimar,br BRA,DF,31-138,11.2,385,359,25,21,0,4,1,0,0,0,0,0,329,1,1,Matches
+Matheus Peixoto,br BRA,FW,28-008,9.8,156,134,20,0,1,0,3,0,0,0,0,0,111,2,6,Matches
+Vinícius,br BRA,"FW,MF",30-113,11.6,434,414,18,2,0,8,51,11,4,4,0,0,282,2,21,Matches
+Dieguinho,br BRA,"FW,MF",28-024,9.0,383,326,55,11,1,5,24,36,8,0,8,0,303,2,6,Matches
+Matheus Babi,br BRA,FW,26-129,9.1,168,149,19,0,0,3,1,0,0,0,0,0,118,0,5,Matches
+Raphael Guzzo,pt POR,MF,28-322,6.1,289,267,21,7,1,2,11,10,4,1,3,0,244,1,7,Matches
+Bruno Araújo dos Santos,br BRA,DF,30-290,5.0,217,155,61,2,0,3,7,59,0,0,0,0,166,1,6,Matches
+Diego Gonçalves,br BRA,"FW,MF",29-125,4.0,115,106,7,1,1,3,6,1,2,0,0,0,87,2,2,Matches
+Alesson,br BRA,"FW,MF",24-281,7.2,208,193,12,1,0,1,23,7,3,2,0,0,124,3,20,Matches
+Marcelo Rangel,br BRA,GK,35-191,3.0,81,43,38,9,0,0,0,0,0,0,0,0,58,0,1,Matches
+Apodi,br BRA,"FW,MF",36-346,3.5,48,42,6,0,0,0,6,3,0,0,0,0,30,0,2,Matches
+Luis Oyama,br BRA,MF,26-298,2.8,92,90,2,2,1,3,2,0,0,0,0,0,72,0,0,Matches
+EDU,br BRA,DF,23-161,2.7,109,105,3,3,0,0,0,0,0,0,0,0,91,1,1,Matches
+Matheus Santos,br BRA,"FW,MF",25-118,2.2,70,62,8,1,1,1,6,7,0,0,0,0,50,0,5,Matches
+Higor,br BRA,MF,29-154,2.1,85,84,1,1,1,0,1,0,0,0,0,0,72,0,0,Matches
+Gabriel Novaes,br BRA,FW,24-233,1.1,18,15,3,0,0,0,0,0,0,0,0,0,13,0,1,Matches
+Dodô,br BRA,"MF,FW",22-162,3.0,126,110,15,6,0,0,15,1,8,2,6,0,102,1,3,Matches
+Philippe Costa,br BRA,FW,23-268,1.2,18,17,1,0,0,1,0,0,0,0,0,0,16,0,0,Matches
+Lucas Emmanuel,br BRA,FW,23-170,0.6,8,8,0,0,0,0,0,0,0,0,0,0,3,0,0,Matches
+Fellipe Bastos,br BRA,MF,33-296,0.4,14,10,4,4,0,0,2,0,0,0,0,0,12,0,0,Matches
+Denzel,br BRA,FW,20-308,0.3,6,6,0,0,0,0,0,0,0,0,0,0,4,0,2,Matches
+Jhonny Lucas,br BRA,MF,23-276,0.2,9,9,0,0,0,0,1,0,0,0,0,0,6,0,0,Matches
+Pedro Oliveira,br BRA,MF,19-246,0.1,2,2,0,0,0,0,0,0,0,0,0,0,1,0,0,Matches
+Squad Total,,,28.7,34.0,13982,12034,1866,547,42,119,641,740,184,74,92,8,10699,82,299,
+Opponent Total,,,28.0,34.0,17851,15966,1841,625,35,134,793,670,210,82,88,2,14550,44,273,

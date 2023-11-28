@@ -1,0 +1,6 @@
+Player,Nation,Pos,Age,Playing Time_MP,Playing Time_Starts,Playing Time_Min,Playing Time_90s,Performance_GA,Performance_GA90,Performance_SoTA,Performance_Saves,Performance_Save%,Performance_W,Performance_D,Performance_L,Performance_CS,Performance_CS%,Penalty Kicks_PKatt,Penalty Kicks_PKA,Penalty Kicks_PKsv,Penalty Kicks_PKm,Penalty Kicks_Save%,Matches
+Matheus Cunha,br BRA,GK,22-184,19,18,1580,17.6,22,1.25,98,75,80.6,9,6,3,5,27.8,4,3,1,0,25.0,Matches
+Agustín Rossi,ar ARG,GK,28-095,11,11,990,11.0,7,0.64,43,36,86.0,6,3,2,7,63.6,1,1,0,0,0.0,Matches
+Santos,br BRA,GK,33-252,6,5,490,5.4,8,1.47,24,16,70.8,2,0,3,2,40.0,1,1,0,0,0.0,Matches
+Squad Total,,,27.4,34,34,3060,34.0,37,1.09,165,127,80.6,17,9,8,14,41.2,6,5,1,0,16.7,
+Opponent Total,,,28.3,34,34,3060,34.0,51,1.5,156,106,72.4,8,9,17,6,17.6,9,8,0,1,0.0,

@@ -1,0 +1,33 @@
+Player,Nation,Pos,Age,90s,Att,Pass Types_Live,Pass Types_Dead,Pass Types_FK,Pass Types_TB,Pass Types_Sw,Pass Types_Crs,Pass Types_TI,Pass Types_CK,Corner Kicks_In,Corner Kicks_Out,Corner Kicks_Str,Outcomes_Cmp,Outcomes_Off,Outcomes_Blocks,Matches
+Walter,br BRA,GK,36-006,33.0,873,536,334,86,0,1,0,0,0,0,0,0,645,3,0,Matches
+Marllon Borges,br BRA,DF,31-222,32.0,1293,1219,73,71,0,9,1,2,0,0,0,0,1113,1,16,Matches
+Deyverson,br BRA,FW,32-200,30.2,632,581,46,1,1,9,15,6,0,0,0,0,353,5,12,Matches
+Alan Empereur,br BRA,DF,29-259,29.8,1504,1368,131,121,3,36,12,10,0,0,0,0,1276,5,3,Matches
+Raniele,br BRA,MF,26-328,28.5,997,949,41,30,4,10,13,10,0,0,0,0,745,7,21,Matches
+Matheus Alexandre,br BRA,DF,24-231,29.3,1406,1103,302,24,0,3,63,278,0,0,0,0,1107,1,39,Matches
+Rikelme,br BRA,DF,20-131,23.4,957,762,191,14,1,4,77,177,0,0,0,0,678,4,24,Matches
+Fernando Sobral,br BRA,MF,28-342,19.8,854,796,53,31,3,7,45,10,2,0,1,0,647,5,23,Matches
+Denilson,br BRA,MF,22-246,18.6,943,873,64,28,4,7,75,4,29,10,13,1,765,6,18,Matches
+Jonathan Cafu,br BRA,"FW,MF",32-137,16.4,507,496,7,1,1,1,45,3,1,0,0,0,358,4,26,Matches
+Clayson,br BRA,FW,28-250,14.7,518,436,73,20,2,4,91,7,45,11,18,5,344,9,35,Matches
+Wellington Silva,br BRA,FW,30-322,14.7,405,393,6,1,4,2,30,5,0,0,0,0,314,6,11,Matches
+Pablo Ceppelini,uy URU,MF,32-074,11.1,615,477,134,57,0,2,120,11,62,22,32,0,454,4,7,Matches
+Allyson Aires dos Santos,br BRA,DF,33-032,9.0,342,322,20,16,0,1,1,4,0,0,0,0,306,0,2,Matches
+Filipe Augusto,br BRA,MF,30-104,10.0,699,653,44,25,1,10,33,0,19,8,9,0,606,2,5,Matches
+Lucas Mineiro,br BRA,MF,27-273,6.4,207,194,12,9,0,1,5,2,0,0,0,0,168,1,5,Matches
+Isidro Pitta,py PAR,FW,24-102,7.1,187,176,9,0,1,0,16,2,1,0,0,0,122,2,8,Matches
+Patric Calmon,br BRA,DF,29-142,5.5,272,217,54,1,0,3,27,52,1,0,0,0,196,1,5,Matches
+Emerson Negueba,br BRA,FW,23-000,5.4,143,142,1,0,0,0,9,0,1,0,0,0,107,0,7,Matches
+Matheusinho,br BRA,DF,25-048,4.8,232,196,36,7,0,0,23,29,0,0,0,0,170,0,5,Matches
+Ronald,br BRA,MF,26-159,6.5,353,325,26,12,0,0,24,4,9,7,2,0,284,2,6,Matches
+Derik Lacerda,br BRA,"FW,MF",24-058,5.7,134,132,2,1,1,1,8,1,0,0,0,0,108,0,5,Matches
+Iury de Castilho,br BRA,FW,28-079,4.4,85,80,4,0,0,1,10,3,1,0,0,0,56,1,6,Matches
+Uendel,br BRA,DF,35-047,2.8,120,95,24,5,0,0,12,19,0,0,0,0,90,1,1,Matches
+João Carlos,br BRA,GK,35-232,1.0,16,8,8,1,0,0,0,0,0,0,0,0,16,0,0,Matches
+Nicolás Quagliata,uy URU,"FW,MF",24-172,2.6,147,139,8,0,0,1,18,1,6,2,3,0,111,0,6,Matches
+Pablinho,br BRA,FW,20-065,0.4,7,7,0,0,0,0,0,0,0,0,0,0,6,0,0,Matches
+Rafael Gava,br BRA,MF,30-188,0.2,6,4,2,1,0,0,1,0,1,0,1,0,5,0,0,Matches
+Vitão,br BRA,DF,23-068,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Ricardo,br BRA,MF,20-330,0.1,4,4,0,0,0,0,0,0,0,0,0,0,4,0,0,Matches
+Squad Total,,,28.9,34.0,14458,12683,1705,563,26,113,774,640,178,60,79,6,11154,70,296,
+Opponent Total,,,28.4,34.0,18168,16362,1746,480,38,177,680,760,164,65,57,1,14856,60,322,

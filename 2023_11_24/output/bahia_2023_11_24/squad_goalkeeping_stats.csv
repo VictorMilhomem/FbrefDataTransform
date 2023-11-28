@@ -1,0 +1,6 @@
+Player,Nation,Pos,Age,Playing Time_MP,Playing Time_Starts,Playing Time_Min,Playing Time_90s,Performance_GA,Performance_GA90,Performance_SoTA,Performance_Saves,Performance_Save%,Performance_W,Performance_D,Performance_L,Performance_CS,Performance_CS%,Penalty Kicks_PKatt,Penalty Kicks_PKA,Penalty Kicks_PKsv,Penalty Kicks_PKm,Penalty Kicks_Save%,Matches
+Marcos Felipe,br BRA,GK,27-225,33,33,2970,33.0,45.0,1.36,166,121,76.5,10.0,8.0,15,9.0,27.3,6.0,6.0,0.0,0.0,0.0,Matches
+Danilo Fernandes,br BRA,GK,35-235,1,1,37,0.4,,,6,6,,,,1,,,,,,,,Matches
+Mateus Claus,br BRA,GK,29-113,1,0,53,0.6,2.0,3.4,3,1,33.3,0.0,0.0,0,0.0,,0.0,0.0,0.0,0.0,,Matches
+Squad Total,,,27.7,34,34,3060,34.0,47.0,1.38,175,128,76.6,10.0,8.0,16,9.0,26.5,6.0,6.0,0.0,0.0,0.0,
+Opponent Total,,,28.2,34,34,3060,34.0,39.0,1.15,147,110,74.1,16.0,8.0,10,13.0,38.2,1.0,1.0,0.0,0.0,0.0,

@@ -1,0 +1,5 @@
+Player,Nation,Pos,Age,90s,Goals_GA,Goals_PKA,Goals_FK,Goals_CK,Goals_OG,Expected_PSxG,Expected_PSxG/SoT,Expected_PSxG+/-,Expected_/90,Launched_Cmp,Launched_Att,Launched_Cmp%,Passes_Att,Passes_Thr,Passes_Launch%,Passes_AvgLen,Goal Kicks_Att,Goal Kicks_Launch%,Goal Kicks_AvgLen,Crosses_Opp,Crosses_Stp,Crosses_Stp%,Sweeper_#OPA,Sweeper_#OPA/90,Sweeper_AvgDist,Matches
+João Paulo,br BRA,GK,28-148,31.7,42,4,1,8,1,47.6,0.28,6.6,0.21,128,399,32.1,591,104,44.0,37.3,243,57.2,43.9,509,24,4.7,21,0.66,12.6,Matches
+Vladimir,br BRA,GK,34-131,2.3,13,0,0,1,2,6.7,0.33,-4.3,-1.86,3,17,17.6,35,15,17.1,28.5,18,61.1,48.6,38,0,0.0,0,0.0,9.4,Matches
+Squad Total,,,27.3,34.0,55,4,1,9,3,54.2,0.28,2.2,0.07,131,416,31.5,626,119,42.5,,261,57.5,44.2,547,24,4.4,21,0.62,,
+Opponent Total,,,28.3,34.0,37,6,1,6,2,42.0,0.29,7.0,0.21,128,413,31.0,774,130,39.7,35.1,246,43.1,35.9,481,20,4.2,27,0.79,14.4,

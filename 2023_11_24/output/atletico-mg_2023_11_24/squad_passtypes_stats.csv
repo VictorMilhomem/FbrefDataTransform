@@ -1,0 +1,34 @@
+Player,Nation,Pos,Age,90s,Att,Pass Types_Live,Pass Types_Dead,Pass Types_FK,Pass Types_TB,Pass Types_Sw,Pass Types_Crs,Pass Types_TI,Pass Types_CK,Corner Kicks_In,Corner Kicks_Out,Corner Kicks_Str,Outcomes_Cmp,Outcomes_Off,Outcomes_Blocks,Matches
+Éverson,br BRA,GK,33-125,32.0,938,712,224,64,0,1,0,0,0,0,0,0,665,2,0,Matches
+Paulinho,br BRA,"FW,MF",23-132,29.5,914,903,8,2,2,2,17,4,0,0,0,0,738,3,29,Matches
+Hulk,br BRA,FW,37-122,28.7,859,704,149,41,14,13,120,7,62,35,20,0,553,6,33,Matches
+Jemerson,br BRA,DF,31-092,24.5,1363,1223,138,56,1,12,0,2,0,0,0,0,1209,2,7,Matches
+Mauricio Lemos,uy URU,DF,27-331,23.1,1204,1130,71,40,1,17,2,4,0,0,0,0,1002,3,9,Matches
+Guilherme Arana,br BRA,DF,26-224,22.6,1465,1236,222,21,1,3,91,195,6,1,5,0,1160,7,42,Matches
+Otávio,br BRA,MF,29-204,21.9,1270,1233,36,34,1,7,2,2,0,0,0,0,1145,1,2,Matches
+Cristian Pavón,ar ARG,"FW,MF",27-307,20.0,909,861,44,11,3,11,78,10,23,13,4,0,695,4,22,Matches
+Rodrigo Battaglia,ar ARG,MF,32-135,19.2,976,920,54,52,0,5,7,1,0,0,0,0,853,2,12,Matches
+Federico Zaracho,ar ARG,"MF,FW",25-259,18.9,796,759,34,11,3,2,8,11,4,4,0,0,682,3,16,Matches
+Renzo Saravia,ar ARG,DF,30-161,17.5,913,761,149,10,2,4,41,139,0,0,0,0,703,3,30,Matches
+Mariano,br BRA,DF,37-154,14.8,972,830,136,12,0,8,34,124,0,0,0,0,751,6,19,Matches
+Rubens,br BRA,"DF,MF",22-156,13.7,718,628,88,4,1,1,35,84,0,0,0,0,558,2,32,Matches
+Igor Gomes,br BRA,"MF,FW",24-252,13.0,618,573,45,10,5,2,58,3,31,23,5,0,464,0,12,Matches
+Bruno Fuchs,br BRA,DF,24-237,12.1,662,633,27,22,1,9,3,5,0,0,0,0,555,2,3,Matches
+Hyoran,br BRA,"MF,FW",30-183,7.7,298,255,42,6,4,4,50,4,32,20,11,0,202,1,12,Matches
+Edenílson,br BRA,"MF,FW",33-341,11.7,534,505,28,10,5,3,11,8,5,0,4,0,448,1,10,Matches
+Alan Franco,ec ECU,"MF,FW",25-095,8.7,335,327,8,8,0,0,4,0,0,0,0,0,285,0,4,Matches
+Pedrinho,br BRA,"MF,FW",25-225,6.7,389,372,13,3,4,2,22,1,8,4,4,0,320,4,10,Matches
+Igor Rabello,br BRA,DF,28-210,5.2,264,252,12,10,0,0,1,1,0,0,0,0,209,0,0,Matches
+Eduardo Vargas,cl CHI,FW,34-004,5.2,159,156,3,0,1,6,4,2,0,0,0,0,127,0,1,Matches
+Nathan Silva,br BRA,DF,26-202,4.0,238,229,9,8,0,1,1,0,0,0,0,0,213,0,1,Matches
+Patrick,br BRA,"MF,FW",31-118,6.1,308,278,29,5,1,0,15,24,0,0,0,0,247,1,4,Matches
+Alan Kardec,br BRA,"FW,MF",34-316,2.7,48,45,3,0,0,0,1,0,0,0,0,0,33,0,3,Matches
+Matheus Mendes,br BRA,GK,24-259,2.0,66,30,36,13,0,0,0,0,0,0,0,0,40,0,0,Matches
+Dodô,br BRA,DF,31-291,0.7,56,47,9,1,0,0,4,8,0,0,0,0,46,0,3,Matches
+Alisson,br BRA,"MF,DF",18-064,0.5,24,22,1,0,0,0,3,0,1,1,0,0,17,1,0,Matches
+Réver,br BRA,"DF,FW",38-324,0.3,14,14,0,0,0,0,0,0,0,0,0,0,9,0,0,Matches
+Isaac,br BRA,FW,19-243,0.2,3,3,0,0,0,0,0,0,0,0,0,0,2,0,0,Matches
+Paulo Vitor,br BRA,MF,19-090,0.2,17,17,0,0,0,0,0,0,0,0,0,0,17,0,0,Matches
+Carlos Eduardo,br BRA,"MF,FW",19-184,0.1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,Matches
+Squad Total,,,29.5,34.0,17331,15659,1618,454,50,113,612,639,172,101,53,0,13949,54,316,
+Opponent Total,,,28.3,34.0,15093,13349,1691,569,33,104,625,605,181,91,68,2,11861,53,311,

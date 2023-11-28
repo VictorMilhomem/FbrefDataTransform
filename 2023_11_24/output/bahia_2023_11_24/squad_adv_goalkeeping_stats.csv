@@ -1,0 +1,6 @@
+Player,Nation,Pos,Age,90s,Goals_GA,Goals_PKA,Goals_FK,Goals_CK,Goals_OG,Expected_PSxG,Expected_PSxG/SoT,Expected_PSxG+/-,Expected_/90,Launched_Cmp,Launched_Att,Launched_Cmp%,Passes_Att,Passes_Thr,Passes_Launch%,Passes_AvgLen,Goal Kicks_Att,Goal Kicks_Launch%,Goal Kicks_AvgLen,Crosses_Opp,Crosses_Stp,Crosses_Stp%,Sweeper_#OPA,Sweeper_#OPA/90,Sweeper_AvgDist,Matches
+Marcos Felipe,br BRA,GK,27-225,33.0,45.0,6.0,1.0,2.0,1.0,52.2,0.29,8.2,0.25,186,454,41.0,827,129,40.5,35.5,223,53.4,42.4,401,24,6.0,35.0,1.06,14.8,Matches
+Danilo Fernandes,br BRA,GK,35-235,0.4,,,,,,1.5,0.25,,,1,6,16.7,10,1,40.0,35.3,4,50.0,34.5,7,1,14.3,,,10.0,Matches
+Mateus Claus,br BRA,GK,29-113,0.6,2.0,0.0,0.0,0.0,0.0,1.0,0.34,-1.0,-1.69,1,1,100.0,7,1,14.3,23.7,5,0.0,19.4,4,0,0.0,0.0,0.0,,Matches
+Squad Total,,,27.7,34.0,47.0,6.0,1.0,2.0,1.0,54.7,0.29,8.7,0.26,188,461,40.8,844,131,40.3,,232,52.2,41.8,412,25,6.1,35.0,1.03,,
+Opponent Total,,,28.2,34.0,39.0,1.0,1.0,5.0,2.0,39.9,0.27,2.9,0.08,124,376,33.0,701,183,35.5,34.4,249,51.0,40.4,510,38,7.5,30.0,0.88,13.3,

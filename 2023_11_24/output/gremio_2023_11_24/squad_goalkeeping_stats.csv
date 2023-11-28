@@ -1,0 +1,7 @@
+Player,Nation,Pos,Age,Playing Time_MP,Playing Time_Starts,Playing Time_Min,Playing Time_90s,Performance_GA,Performance_GA90,Performance_SoTA,Performance_Saves,Performance_Save%,Performance_W,Performance_D,Performance_L,Performance_CS,Performance_CS%,Penalty Kicks_PKatt,Penalty Kicks_PKA,Penalty Kicks_PKsv,Penalty Kicks_PKm,Penalty Kicks_Save%,Matches
+Gabriel Chapecó,br BRA,GK,23-240,30,30,2700,30.0,48,1.6,153,106,71.2,14,5,11,5,16.7,4,4,0,0,0.0,Matches
+Adriel,br BRA,GK,22-314,2,2,180,2.0,1,0.5,8,7,87.5,2,0,0,1,50.0,0,0,0,0,,Matches
+Brenno,br BRA,GK,24-237,1,1,90,1.0,1,1.0,2,1,50.0,1,0,0,0,0.0,0,0,0,0,,Matches
+Caíque,br BRA,GK,26-116,1,1,90,1.0,0,0.0,3,3,100.0,1,0,0,1,100.0,0,0,0,0,,Matches
+Squad Total,,,28.7,34,34,3060,34.0,50,1.47,166,117,72.3,18,5,11,7,20.6,4,4,0,0,0.0,
+Opponent Total,,,28.3,34,34,3060,34.0,57,1.68,168,113,68.5,11,5,18,8,23.5,6,4,0,2,0.0,

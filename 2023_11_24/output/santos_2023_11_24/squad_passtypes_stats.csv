@@ -1,0 +1,49 @@
+Player,Nation,Pos,Age,90s,Att,Pass Types_Live,Pass Types_Dead,Pass Types_FK,Pass Types_TB,Pass Types_Sw,Pass Types_Crs,Pass Types_TI,Pass Types_CK,Corner Kicks_In,Corner Kicks_Out,Corner Kicks_Str,Outcomes_Cmp,Outcomes_Off,Outcomes_Blocks,Matches
+João Paulo,br BRA,GK,28-148,31.7,834,490,344,101,0,6,0,0,0,0,0,0,548,0,0,Matches
+Joaquim,br BRA,DF,24-331,27.3,1084,1037,40,30,0,11,7,10,0,0,0,0,785,7,16,Matches
+Lucas Lima,br BRA,"MF,FW",33-138,23.3,1099,911,181,82,7,17,123,20,77,24,32,0,847,7,30,Matches
+Marcos Leonardo,br BRA,FW,20-206,25.9,384,323,61,1,5,2,10,1,0,0,0,0,283,0,16,Matches
+Messias,br BRA,DF,29-021,22.6,723,704,18,17,0,3,0,1,0,0,0,0,540,1,2,Matches
+Rodrigo Fernández,uy URU,MF,27-325,19.7,795,751,42,40,0,19,7,2,0,0,0,0,617,2,10,Matches
+Dodi,br BRA,MF,27-221,18.6,519,475,44,31,1,1,17,2,9,2,4,0,433,0,12,Matches
+Lucas Braga,br BRA,"DF,FW",27-014,18.1,494,392,100,14,1,1,29,85,0,0,0,0,383,2,17,Matches
+Stiven Mendoza,co COL,"FW,MF",31-150,17.1,551,534,13,4,0,3,45,7,2,0,2,0,416,4,27,Matches
+Jean Lucas,br BRA,MF,25-155,16.3,780,679,98,52,6,11,71,8,38,15,18,0,625,3,29,Matches
+Dodô,br BRA,DF,31-291,14.1,772,647,121,16,0,0,27,105,0,0,0,0,635,4,14,Matches
+Yeferson Soteldo,ve VEN,"FW,MF",26-147,13.3,450,417,30,17,1,1,63,3,8,3,3,0,325,3,20,Matches
+João Othavio Basso,br BRA,DF,26-315,12.1,615,590,25,23,0,4,2,2,0,0,0,0,507,0,3,Matches
+Tomás Rincón,ve VEN,MF,35-315,11.8,517,484,31,25,2,5,7,5,0,0,0,0,444,2,5,Matches
+Gabriel Inocêncio,br BRA,DF,29-096,12.6,638,498,137,6,0,0,27,130,1,0,0,0,482,3,8,Matches
+Kevyson,br BRA,DF,19-240,10.0,405,323,81,6,0,0,42,75,0,0,0,0,282,1,19,Matches
+João Lucas,br BRA,DF,25-260,9.0,411,314,95,7,0,0,39,87,1,0,0,0,274,2,21,Matches
+Lucas,br BRA,DF,22-245,6.8,341,274,66,9,0,0,13,57,0,0,0,0,260,1,11,Matches
+Nathan,br BRA,DF,22-080,5.5,228,174,54,3,0,0,13,51,0,0,0,0,178,0,7,Matches
+Ângelo Borges,br BRA,"FW,MF",18-338,6.0,172,167,3,0,2,0,8,3,0,0,0,0,122,2,8,Matches
+Nonato,br BRA,MF,25-266,5.4,185,185,0,0,0,1,2,0,0,0,0,0,155,0,3,Matches
+Alex,br BRA,DF,24-198,5.1,244,237,7,7,0,1,0,0,0,0,0,0,221,0,2,Matches
+Deivid Washington,br BRA,FW,18-172,4.7,79,69,8,1,0,0,0,0,0,0,0,0,57,2,3,Matches
+Julio Furch,ar ARG,"FW,MF",34-118,4.8,150,142,7,1,0,1,3,0,0,0,0,0,102,1,5,Matches
+Guilherme Camacho,br BRA,MF,33-267,4.5,232,210,19,18,2,1,4,0,1,0,0,0,191,3,4,Matches
+Maximiliano Silvera,uy URU,"FW,MF",26-080,3.8,95,94,1,0,0,0,2,0,0,0,0,0,67,0,4,Matches
+Eduardo Gabriel,br BRA,DF,27-284,3.0,106,98,8,7,0,0,0,1,0,0,0,0,89,0,3,Matches
+Daniel Ruiz Rivera,co COL,"FW,MF",22-117,2.7,104,88,15,3,0,1,19,1,11,2,9,0,68,1,7,Matches
+Vladimir,br BRA,GK,34-131,2.3,54,31,22,4,0,0,0,0,0,0,0,0,37,1,0,Matches
+Sandry,br BRA,MF,21-086,2.1,106,101,5,3,0,5,8,0,2,0,0,0,85,0,3,Matches
+Alison,br BRA,MF,30-268,1.5,63,63,0,0,0,0,0,0,0,0,0,0,51,0,1,Matches
+Luan Dias,br BRA,"MF,FW",26-116,2.1,61,50,11,6,0,0,11,0,4,1,2,0,39,0,3,Matches
+Júnior Caiçara,br BRA,DF,34-211,1.9,131,108,23,2,0,0,15,19,2,1,1,0,101,0,5,Matches
+Lucas Barbosa,br BRA,"FW,MF",22-275,1.1,40,40,0,0,0,1,2,0,0,0,0,0,16,0,0,Matches
+Felipe Jonatan,br BRA,DF,25-282,1.0,81,72,9,0,0,0,7,9,0,0,0,0,69,0,2,Matches
+Alfredo Morelos,co COL,FW,27-156,0.8,36,35,0,0,0,0,1,0,0,0,0,0,23,1,2,Matches
+Bruno Mezenga,br BRA,"FW,MF",35-108,1.9,76,68,8,0,0,0,0,0,0,0,0,0,50,0,5,Matches
+Weslley Patati,br BRA,"FW,MF",20-054,1.0,41,36,2,1,1,1,4,0,1,1,0,0,26,3,1,Matches
+Maicon,br BRA,DF,35-071,0.5,17,17,0,0,0,0,0,0,0,0,0,0,12,0,0,Matches
+Ed Carlos,br BRA,"MF,FW",22-250,0.4,41,37,4,2,0,0,2,1,1,1,0,0,34,0,1,Matches
+Miguel Terceros,bo BOL,"MF,FW",19-213,0.4,18,15,3,1,0,0,2,0,2,2,0,0,15,0,1,Matches
+Vinicius,br BRA,MF,24-180,0.3,6,5,1,1,0,0,0,0,0,0,0,0,2,0,0,Matches
+Cadu,br BRA,DF,21-276,0.2,11,8,3,0,0,0,1,3,0,0,0,0,8,0,1,Matches
+Ivonei,br BRA,MF,21-222,0.0,3,3,0,0,0,0,0,0,0,0,0,0,2,0,0,Matches
+Jair Paula,br BRA,DF,18-262,0.0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Luiz Felipe,br BRA,DF,30-076,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Squad Total,,,27.3,34.0,13793,11997,1740,541,28,96,633,688,160,52,71,0,10506,56,331,
+Opponent Total,,,28.3,34.0,17313,15385,1871,531,49,116,665,807,199,95,74,1,13923,57,325,

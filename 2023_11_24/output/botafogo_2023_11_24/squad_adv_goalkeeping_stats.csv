@@ -1,0 +1,5 @@
+Player,Nation,Pos,Age,90s,Goals_GA,Goals_PKA,Goals_FK,Goals_CK,Goals_OG,Expected_PSxG,Expected_PSxG/SoT,Expected_PSxG+/-,Expected_/90,Launched_Cmp,Launched_Att,Launched_Cmp%,Passes_Att,Passes_Thr,Passes_Launch%,Passes_AvgLen,Goal Kicks_Att,Goal Kicks_Launch%,Goal Kicks_AvgLen,Crosses_Opp,Crosses_Stp,Crosses_Stp%,Sweeper_#OPA,Sweeper_#OPA/90,Sweeper_AvgDist,Matches
+Lucas Perri,br BRA,GK,25-349,33.5,31,0,0,2,1,42.9,0.29,12.9,0.39,191,497,38.4,737,179,49.7,39.8,217,60.4,45.4,550,30,5.5,44,1.31,16.7,Matches
+Gatito Fernández,py PAR,GK,35-240,0.5,1,0,0,0,0,1.8,0.45,0.8,1.59,2,4,50.0,10,3,40.0,30.4,3,0.0,20.0,3,1,33.3,3,6.0,18.4,Matches
+Squad Total,,,29.4,34.0,32,0,0,2,1,44.7,0.29,13.7,0.4,193,501,38.5,747,182,49.5,,220,59.5,45.0,553,31,5.6,47,1.38,,
+Opponent Total,,,28.3,34.0,55,4,0,8,2,47.9,0.27,-5.1,-0.15,94,324,29.0,706,142,32.3,32.7,243,39.5,34.4,472,26,5.5,29,0.85,14.0,

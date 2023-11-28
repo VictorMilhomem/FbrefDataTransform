@@ -1,0 +1,5 @@
+Player,Nation,Pos,Age,Playing Time_MP,Playing Time_Starts,Playing Time_Min,Playing Time_90s,Performance_GA,Performance_GA90,Performance_SoTA,Performance_Saves,Performance_Save%,Performance_W,Performance_D,Performance_L,Performance_CS,Performance_CS%,Penalty Kicks_PKatt,Penalty Kicks_PKA,Penalty Kicks_PKsv,Penalty Kicks_PKm,Penalty Kicks_Save%,Matches
+João Paulo,br BRA,GK,28-148,32,32,2851,31.7,42,1.33,159,117,76.1,11,9,12,8,25.0,6,4,1,1,20.0,Matches
+Vladimir,br BRA,GK,34-131,3,2,209,2.3,13,5.6,21,10,38.1,0,0,2,0,0.0,0,0,0,0,,Matches
+Squad Total,,,27.3,34,34,3060,34.0,55,1.62,180,127,71.7,11,9,14,8,23.5,6,4,1,1,20.0,
+Opponent Total,,,28.3,34,34,3060,34.0,37,1.09,130,95,76.2,14,9,11,14,41.2,6,6,0,0,0.0,

@@ -1,0 +1,5 @@
+Player,Nation,Pos,Age,Playing Time_MP,Playing Time_Starts,Playing Time_Min,Playing Time_90s,Performance_GA,Performance_GA90,Performance_SoTA,Performance_Saves,Performance_Save%,Performance_W,Performance_D,Performance_L,Performance_CS,Performance_CS%,Penalty Kicks_PKatt,Penalty Kicks_PKA,Penalty Kicks_PKsv,Penalty Kicks_PKm,Penalty Kicks_Save%,Matches
+Cássio,br BRA,GK,36-171,34,34,3040,33.8,39,1.15,163,125,78.5,10,14,10,8,23.5,5,4,0,1,0.0,Matches
+Carlos Miguel,br BRA,GK,25-046,1,0,20,0.2,0,0.0,1,1,100.0,0,0,0,1,,0,0,0,0,,Matches
+Squad Total,,,28.1,34,34,3060,34.0,39,1.15,164,126,78.7,10,14,10,9,26.5,5,4,0,1,0.0,
+Opponent Total,,,28.6,34,34,3060,34.0,39,1.15,145,108,77.2,10,14,10,8,23.5,7,6,0,1,0.0,

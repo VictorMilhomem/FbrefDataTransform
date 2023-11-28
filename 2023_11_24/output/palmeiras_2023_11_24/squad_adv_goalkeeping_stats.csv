@@ -1,0 +1,5 @@
+Player,Nation,Pos,Age,90s,Goals_GA,Goals_PKA,Goals_FK,Goals_CK,Goals_OG,Expected_PSxG,Expected_PSxG/SoT,Expected_PSxG+/-,Expected_/90,Launched_Cmp,Launched_Att,Launched_Cmp%,Passes_Att,Passes_Thr,Passes_Launch%,Passes_AvgLen,Goal Kicks_Att,Goal Kicks_Launch%,Goal Kicks_AvgLen,Crosses_Opp,Crosses_Stp,Crosses_Stp%,Sweeper_#OPA,Sweeper_#OPA/90,Sweeper_AvgDist,Matches
+Wéverton,br BRA,GK,35-346,31.0,27,3,1,2,1,32.0,0.25,6.0,0.19,126,326,38.7,841,179,31.0,33.4,207,31.4,32.8,370,29,7.8,20,0.65,13.2,Matches
+Marcelo Lomba,br BRA,GK,36-341,3.0,3,1,0,0,0,5.5,0.31,2.5,0.84,14,38,36.8,78,18,35.9,32.7,23,43.5,30.9,46,5,10.9,0,0.0,3.7,Matches
+Squad Total,,,27.7,34.0,30,4,1,2,1,37.5,0.26,8.5,0.25,140,364,38.5,919,197,31.4,,230,32.6,32.6,416,34,8.2,20,0.59,,
+Opponent Total,,,28.2,34.0,56,2,1,8,1,56.5,0.3,1.5,0.04,183,478,38.3,781,143,42.0,36.6,310,48.4,40.2,668,30,4.5,31,0.91,12.7,

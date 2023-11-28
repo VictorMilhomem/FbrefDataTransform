@@ -1,0 +1,5 @@
+Player,Nation,Pos,Age,Playing Time_MP,Playing Time_Starts,Playing Time_Min,Playing Time_90s,Performance_GA,Performance_GA90,Performance_SoTA,Performance_Saves,Performance_Save%,Performance_W,Performance_D,Performance_L,Performance_CS,Performance_CS%,Penalty Kicks_PKatt,Penalty Kicks_PKA,Penalty Kicks_PKsv,Penalty Kicks_PKm,Penalty Kicks_Save%,Matches
+Lucas Perri,br BRA,GK,25-349,34,34,3015,33.5,31,0.93,153,123,79.7,18,7,9,14,41.2,1,0,0,1,,Matches
+Gatito Fernández,py PAR,GK,35-240,1,0,45,0.5,1,2.0,4,3,75.0,0,0,0,0,,0,0,0,0,,Matches
+Squad Total,,,29.4,34,34,3060,34.0,32,0.94,157,126,79.6,18,7,9,14,41.2,1,0,0,1,,
+Opponent Total,,,28.3,34,34,3060,34.0,55,1.62,158,103,67.7,9,7,18,7,20.6,6,4,2,0,33.3,

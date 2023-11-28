@@ -1,0 +1,47 @@
+Player,Nation,Pos,Age,90s,Att,Pass Types_Live,Pass Types_Dead,Pass Types_FK,Pass Types_TB,Pass Types_Sw,Pass Types_Crs,Pass Types_TI,Pass Types_CK,Corner Kicks_In,Corner Kicks_Out,Corner Kicks_Str,Outcomes_Cmp,Outcomes_Off,Outcomes_Blocks,Matches
+Gabriel Chapecó,br BRA,GK,23-240,30.0,807,421,384,76,0,1,0,1,0,0,0,0,505,2,0,Matches
+Luis Suárez,uy URU,FW,36-304,28.0,975,895,76,12,6,8,29,8,2,1,0,0,681,4,31,Matches
+Franco Cristaldo,ar ARG,"MF,FW",27-101,21.4,1171,1020,147,53,4,13,112,9,77,25,25,0,889,4,34,Matches
+Mathías Villasanti,py PAR,MF,26-304,26.4,1239,1143,94,93,8,0,2,1,0,0,0,0,1069,2,23,Matches
+Reinaldo,br BRA,DF,34-057,25.8,1473,1074,394,65,4,7,132,274,55,8,25,0,1068,5,43,Matches
+Bruno Fabiano Alves,br BRA,DF,32-222,25.2,853,810,41,38,0,0,4,1,0,0,0,0,717,2,3,Matches
+Walter Kannemann,ar ARG,DF,32-255,23.2,916,878,34,33,0,2,2,1,0,0,0,0,715,4,9,Matches
+João Pedro,br BRA,DF,27-009,22.1,1035,815,218,15,3,2,31,203,0,0,0,0,797,2,28,Matches
+Bitelo,br BRA,"MF,FW",23-321,17.2,819,768,46,21,7,3,35,10,15,1,8,0,660,5,18,Matches
+Felipe Carballo,uy URU,MF,27-051,15.0,700,670,25,18,5,3,12,6,1,0,1,0,557,5,17,Matches
+Bruno Uvini,br BRA,DF,32-174,15.6,490,471,17,17,0,1,0,0,0,0,0,0,370,2,3,Matches
+João Pedro Pepê,br BRA,MF,25-322,13.2,664,629,34,31,0,4,18,2,0,0,0,0,568,1,7,Matches
+João Pedro,it ITA,FW,31-260,6.8,125,116,7,1,0,1,1,1,0,0,0,0,85,2,4,Matches
+Fábio,br BRA,DF,33-138,7.9,370,306,64,3,0,0,31,61,0,0,0,0,278,0,7,Matches
+Vinícius,br BRA,FW,32-223,7.3,351,344,7,2,2,0,4,0,0,0,0,0,285,0,10,Matches
+Nathan,br BRA,"MF,FW",27-256,6.9,279,266,11,2,1,1,8,1,7,2,2,0,226,2,3,Matches
+Everton,br BRA,"FW,MF",26-252,11.6,358,341,15,1,0,1,13,6,8,3,1,0,279,2,12,Matches
+Rodrigo Ely,br BRA,DF,30-021,5.4,162,153,9,9,1,2,0,0,0,0,0,0,120,0,2,Matches
+Pedro Geromel,br BRA,DF,38-064,5.2,232,225,7,7,0,4,3,0,0,0,0,0,195,0,3,Matches
+Cuiabano,br BRA,"DF,MF",20-281,5.2,215,180,33,6,1,4,19,26,1,0,0,0,129,2,11,Matches
+Lucas Besozzi,ar ARG,"FW,MF",20-306,4.4,195,193,0,0,2,0,12,0,0,0,0,0,149,2,8,Matches
+Ferreira,br BRA,"FW,MF",25-328,9.9,405,383,17,3,3,2,26,3,8,1,4,0,311,5,15,Matches
+Gustavo Martins Santos,br BRA,"DF,MF",21-105,5.5,306,299,6,3,0,5,2,3,0,0,0,0,250,1,4,Matches
+Diogo Barbosa,br BRA,DF,31-099,4.3,210,163,46,5,0,0,5,40,1,0,0,0,156,1,6,Matches
+Ronald,br BRA,MF,20-286,3.5,172,169,3,3,0,1,2,0,0,0,0,0,142,0,3,Matches
+Lucas Milla,br BRA,MF,20-300,3.4,143,141,2,1,0,1,1,1,0,0,0,0,94,0,7,Matches
+Thomas Luciano,br BRA,DF,21-314,3.5,128,96,32,5,0,0,4,27,0,0,0,0,85,0,5,Matches
+Lucas Silva,br BRA,MF,30-281,2.5,148,142,5,4,0,0,1,0,1,0,1,0,127,1,2,Matches
+Adriel,br BRA,GK,22-314,2.0,63,25,38,9,0,1,0,0,0,0,0,0,28,0,0,Matches
+Andre Martins,br BRA,"FW,MF",21-342,3.6,117,110,6,0,0,0,3,1,0,0,0,0,89,1,4,Matches
+Zinho,br BRA,"FW,MF",20-199,2.7,61,61,0,0,1,0,3,0,0,0,0,0,42,0,4,Matches
+Josué,br BRA,MF,18-213,1.3,52,50,1,1,0,0,1,0,0,0,0,0,36,1,1,Matches
+Brenno,br BRA,GK,24-237,1.0,19,12,7,4,0,0,0,0,0,0,0,0,17,0,0,Matches
+Caíque,br BRA,GK,26-116,1.0,22,13,9,2,0,0,0,0,0,0,0,0,10,0,0,Matches
+Wesley,br BRA,DF,19-324,1.0,39,33,6,1,0,0,1,5,0,0,0,0,21,0,2,Matches
+Juan Iturbe,py PAR,"FW,MF",30-173,0.8,28,28,0,0,0,0,2,0,0,0,0,0,19,0,2,Matches
+Nathan Fernandes,br BRA,"FW,MF",18-281,1.8,40,40,0,0,0,0,3,0,0,0,0,0,27,0,2,Matches
+Luan Vieira,br BRA,"FW,MF",30-242,0.6,46,42,4,0,1,0,4,0,3,1,2,0,37,0,1,Matches
+Darlan Mendes,br BRA,MF,25-222,0.5,18,17,1,1,0,0,0,0,0,0,0,0,16,0,0,Matches
+Gustavinho,br BRA,"FW,MF",22-026,0.4,21,19,2,0,0,0,3,0,2,2,0,0,13,0,0,Matches
+Freddy Noguera,py PAR,FW,19-319,0.3,3,3,0,0,0,0,0,0,0,0,0,0,2,0,0,Matches
+Nata,br BRA,"FW,DF",22-172,0.2,12,12,0,0,0,0,0,0,0,0,0,0,11,0,0,Matches
+Lian,br BRA,MF,18-065,0.1,2,2,0,0,0,0,0,0,0,0,0,0,2,0,0,Matches
+João Vitor,br BRA,MF,18-157,0.1,5,5,0,0,0,0,0,0,0,0,0,0,5,0,0,Matches
+Squad Total,,,28.7,34.0,15489,13583,1848,545,49,67,529,691,181,44,69,0,11882,58,334,
+Opponent Total,,,28.3,34.0,17543,15816,1683,451,49,133,724,673,204,92,77,1,14088,44,302,

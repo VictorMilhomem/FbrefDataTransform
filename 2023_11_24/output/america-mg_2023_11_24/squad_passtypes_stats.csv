@@ -1,0 +1,45 @@
+Player,Nation,Pos,Age,90s,Att,Pass Types_Live,Pass Types_Dead,Pass Types_FK,Pass Types_TB,Pass Types_Sw,Pass Types_Crs,Pass Types_TI,Pass Types_CK,Corner Kicks_In,Corner Kicks_Out,Corner Kicks_Str,Outcomes_Cmp,Outcomes_Off,Outcomes_Blocks,Matches
+Juninho,br BRA,MF,36-032,29.7,894,849,38,19,3,2,44,16,0,0,0,0,638,7,19,Matches
+Leandro Emmanuel Martínez,ar ARG,MF,29-173,26.2,1368,1219,146,58,7,6,103,6,76,23,24,0,1087,3,27,Matches
+Iago Maidana,br BRA,DF,27-291,23.9,770,732,33,25,0,8,1,2,0,0,0,0,574,5,9,Matches
+Felipe Azevedo,br BRA,"FW,MF",36-318,18.1,461,436,22,6,0,5,28,6,9,3,1,0,298,3,20,Matches
+Danilo Avelar,br BRA,DF,34-168,20.3,779,675,98,20,1,4,15,77,0,0,0,0,522,6,13,Matches
+Gonzalo Mastriani,uy URU,FW,30-210,18.6,295,262,31,0,1,0,3,1,0,0,0,0,183,2,8,Matches
+Ricardo Silva,br BRA,DF,31-103,17.5,619,577,40,36,0,10,2,4,0,0,0,0,474,2,8,Matches
+Marlon,br BRA,DF,29-284,15.6,731,582,148,23,0,3,53,120,5,2,3,0,559,1,23,Matches
+Matheus Cavichioli,br BRA,GK,37-120,15.0,377,224,152,37,0,1,0,0,0,0,0,0,261,1,1,Matches
+Eder,br BRA,DF,28-233,14.5,562,531,30,27,1,11,1,0,0,0,0,0,441,1,0,Matches
+Martín Benítez,ar ARG,"MF,FW",29-160,12.0,540,450,87,41,6,11,50,7,31,9,16,1,372,3,13,Matches
+Breno Cascardo,br BRA,MF,20-060,12.1,533,515,15,11,1,5,6,0,0,0,0,0,439,3,8,Matches
+Everaldo,br BRA,"FW,MF",29-180,11.5,361,336,23,3,1,2,47,15,5,1,2,0,272,2,11,Matches
+Ale,br BRA,MF,33-171,13.3,739,703,35,25,0,7,8,7,0,0,0,0,650,1,7,Matches
+Rodriguinho,br BRA,DF,20-172,10.5,488,396,92,11,2,8,57,73,8,1,7,0,346,0,18,Matches
+Lucas Kal,br BRA,MF,27-253,10.5,458,432,24,22,2,3,6,1,0,0,0,0,371,2,7,Matches
+Mateus Pasinato,br BRA,GK,31-149,10.0,246,155,89,20,0,0,0,0,0,0,0,0,184,2,0,Matches
+Marcinho,br BRA,DF,27-192,8.9,474,397,76,8,2,10,46,65,3,0,2,0,317,1,11,Matches
+Aloísio dos Santos Gonçalves,cn CHN,"FW,MF",35-158,8.0,161,139,20,0,0,2,6,0,0,0,0,0,99,2,9,Matches
+Nicolas,br BRA,DF,26-273,8.0,287,226,60,3,0,2,26,52,5,1,3,0,188,1,15,Matches
+Jori,br BRA,GK,27-254,7.0,164,91,73,20,0,2,0,0,0,0,0,0,113,0,0,Matches
+Daniel Borges,br BRA,DF,30-246,6.7,371,305,66,9,0,7,31,57,0,0,0,0,280,0,8,Matches
+Mateus Henrique,br BRA,DF,21-053,5.3,237,189,48,1,0,1,17,47,0,0,0,0,166,0,7,Matches
+Wanderson,br BRA,DF,32-290,5.6,166,157,8,8,0,3,0,0,0,0,0,0,121,1,1,Matches
+Rodrigo Varanda,br BRA,"FW,MF",20-317,5.7,173,158,14,1,2,0,10,10,0,0,0,0,136,1,7,Matches
+Pedrinho,br BRA,"FW,MF",24-014,4.6,127,119,7,0,1,3,16,5,2,1,0,0,88,1,6,Matches
+Esteban Burgos,ar ARG,DF,31-319,3.3,89,80,9,9,0,2,0,0,0,0,0,0,67,0,0,Matches
+Renato Marques,br BRA,"FW,MF",19-350,3.2,73,63,8,1,1,0,1,1,0,0,0,0,43,2,3,Matches
+Óscar Méndez,uy URU,MF,28-354,2.9,74,72,2,1,1,0,1,0,0,0,0,0,57,0,1,Matches
+Júlio César,br BRA,DF,20-057,2.8,146,137,8,4,0,1,0,4,0,0,0,0,120,1,0,Matches
+Matheusinho,br BRA,"MF,FW",25-286,2.5,103,100,2,0,0,0,12,1,1,0,1,0,73,1,4,Matches
+Nino Paraíba,br BRA,DF,37-318,2.2,109,91,17,2,0,3,17,15,0,0,0,0,81,1,2,Matches
+Washington Aguerre,uy URU,GK,30-215,2.0,41,17,24,8,0,0,0,0,0,0,0,0,31,0,0,Matches
+Henrique Almeida,br BRA,FW,32-181,1.7,29,23,6,0,0,0,2,0,0,0,0,0,24,0,1,Matches
+Paulinho,br BRA,FW,25-151,1.5,50,50,0,0,0,0,4,0,0,0,0,0,39,0,1,Matches
+Juan Cazares,ec ECU,"MF,FW",31-235,3.1,140,115,24,9,1,2,18,4,9,5,4,0,98,1,5,Matches
+Mikael,br BRA,FW,24-180,1.7,25,21,4,0,0,0,1,0,0,0,0,0,19,0,0,Matches
+Arthur,br BRA,DF,20-252,1.0,55,42,13,2,0,0,3,11,0,0,0,0,38,0,2,Matches
+Wellington Paulista,br BRA,FW,39-216,2.5,40,35,5,0,0,0,0,0,0,0,0,0,30,0,0,Matches
+Adyson,br BRA,"FW,MF",18-063,1.4,79,70,9,5,0,0,20,1,3,0,3,0,56,0,4,Matches
+Mateus Gonçalves Martins,br BRA,"MF,FW",29-057,0.7,28,27,1,0,0,0,4,0,1,0,1,0,23,0,2,Matches
+Renato Kayser,br BRA,"FW,MF",27-280,0.4,15,15,0,0,0,0,0,0,0,0,0,0,10,0,0,Matches
+Squad Total,,,30.2,34.0,13477,11813,1607,475,33,124,659,608,158,46,67,1,9988,57,281,
+Opponent Total,,,28.4,34.0,18647,16811,1775,512,54,142,794,695,197,86,62,0,15045,61,341,
